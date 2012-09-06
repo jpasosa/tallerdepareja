@@ -1,0 +1,9 @@
+# Archivos ignorados por el git
+
+
+/app/logs
+/app/cache
+/vendor
+/app/config/parameters.yml
+
+
